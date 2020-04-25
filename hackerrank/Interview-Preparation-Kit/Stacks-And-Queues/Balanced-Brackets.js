@@ -1,3 +1,7 @@
+/**
+ * Balanced Brackets
+ */
+
 // NOTE, BAD CODE!!!!!!!!
 
 function isBalanced(s) {

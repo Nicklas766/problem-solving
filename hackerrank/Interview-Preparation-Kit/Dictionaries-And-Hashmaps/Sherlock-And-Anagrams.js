@@ -1,3 +1,7 @@
+/**
+ * Sherlock And Anagrams
+ */
+
 // Complete the sherlockAndAnagrams function below.
 function sherlockAndAnagrams(s) {
     let count = 0;

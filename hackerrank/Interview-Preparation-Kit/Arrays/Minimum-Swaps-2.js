@@ -1,3 +1,7 @@
+/**
+ * Minimum Swaps 2
+ */
+
 const selectionSort = arr => {
     let numOfSwaps = 0;
     for (let i = 0; i < arr.length - 1; i++) {

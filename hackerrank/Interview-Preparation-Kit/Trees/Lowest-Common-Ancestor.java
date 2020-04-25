@@ -1,3 +1,7 @@
+/**
+ * Binary Search Tree : Lowest Common Ancestor
+ */
+
 public static Node lca(Node root, int v1, int v2) {
     // if bigger than both
       if (root.data > v1 && root.data > v2) {

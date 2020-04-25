@@ -1,3 +1,7 @@
+/**
+ * 2D Array - DS
+ */
+
 function hourglassSum(arr) {
     const maxIndex = 5;
     const minIndex = 0;

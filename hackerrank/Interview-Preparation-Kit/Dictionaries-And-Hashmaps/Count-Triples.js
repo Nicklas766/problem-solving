@@ -1,3 +1,7 @@
+/**
+ * Count Triples
+ */
+
 function countTriplets(arr, r) {
 
     const secondVal = {};

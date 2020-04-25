@@ -1,3 +1,7 @@
+/**
+ * Insert a node at a specific position in a linked list
+ */
+
 const createNode = (data, next) => ({ data, next });
 
 function insertNodeAtPosition(head, data, position) {
