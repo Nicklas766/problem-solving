@@ -1,0 +1,15 @@
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/bin/Debug/net5.0/Pairs.deps.json
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/bin/Debug/net5.0/Pairs.runtimeconfig.json
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/bin/Debug/net5.0/Pairs.runtimeconfig.dev.json
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/bin/Debug/net5.0/Pairs.dll
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/bin/Debug/net5.0/ref/Pairs.dll
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/bin/Debug/net5.0/Pairs.pdb
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/obj/Debug/net5.0/Pairs.csprojAssemblyReference.cache
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/obj/Debug/net5.0/Pairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/obj/Debug/net5.0/Pairs.AssemblyInfoInputs.cache
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/obj/Debug/net5.0/Pairs.AssemblyInfo.cs
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/obj/Debug/net5.0/Pairs.csproj.CoreCompileInputs.cache
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/obj/Debug/net5.0/Pairs.dll
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/obj/Debug/net5.0/ref/Pairs.dll
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/obj/Debug/net5.0/Pairs.pdb
+/Users/nicklas/projects/problem-solving/HackerRank/Interview-Preparation-Kit/Search/Pairs/obj/Debug/net5.0/Pairs.genruntimeconfig.cache
