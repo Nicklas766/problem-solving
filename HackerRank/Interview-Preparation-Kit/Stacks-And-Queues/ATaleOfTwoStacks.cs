@@ -43,8 +43,8 @@ class Solution {
     static void Main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
         int n = Int32.Parse(Console.ReadLine());
-
         TwoStackQueue<string> q = new TwoStackQueue<string>();
+        
         for (int i = 0; i < n; i++) 
         {
             string[] line = Console.ReadLine().Split(' ');
